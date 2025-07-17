@@ -1,6 +1,6 @@
 # 📰 Fake News Detection Using RoBERTa and Gradio
 
-## 📖 Project Overview
+## Project Overview
 
 This project implements a fake news detection system using the RoBERTa transformer model, fine-tuned on a balanced dataset. It combines both headlines and article content for improved accuracy. The system is deployed via a Gradio interface for real-time predictions with confidence scores.
 
