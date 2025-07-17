@@ -1,4 +1,4 @@
-# Fake News Detection Using RoBERTa and Gradio
+# 📰 Fake News Detection Using RoBERTa and Gradio
 
 ## 📖 Project Overview
 
